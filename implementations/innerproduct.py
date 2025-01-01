@@ -6,7 +6,7 @@ import math as m
 If each element of a set of vectors is normalized and the elements are orthogonal
 with respect to each other, we say the set is orthonormal
 
-when the inner product of a state vector with itself is 1,then its a normalized 
+when the inner product of a state vector with itself is 1,then its normalized 
 and when the inner product of two state vectors is 0 then state vectors are orthogonal
 
 """
